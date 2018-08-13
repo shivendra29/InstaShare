@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/fc9812702243608c47d4daf1da198e9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1638d8476ac9d12dc8a13995e2bd2b44/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a3eec042b0f0f3b3cbcdd333fecb4fbe/AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.12.aar/bf5acac04de69708bfaafaab58772cd5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/82af79fd9a71cf5372c2f7338efc9f1c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0a23acefeeb3d83ab9d2804532d2347a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/cd6e967b2873c88265cae25f9437068f/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+	package
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:1-36:12
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:17:5-34:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1638d8476ac9d12dc8a13995e2bd2b44/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1638d8476ac9d12dc8a13995e2bd2b44/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a3eec042b0f0f3b3cbcdd333fecb4fbe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a3eec042b0f0f3b3cbcdd333fecb4fbe/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/82af79fd9a71cf5372c2f7338efc9f1c/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/82af79fd9a71cf5372c2f7338efc9f1c/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0a23acefeeb3d83ab9d2804532d2347a/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0a23acefeeb3d83ab9d2804532d2347a/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/cd6e967b2873c88265cae25f9437068f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/cd6e967b2873c88265cae25f9437068f/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml:33:19-51
+uses-sdk
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/fc9812702243608c47d4daf1da198e9e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/fc9812702243608c47d4daf1da198e9e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1638d8476ac9d12dc8a13995e2bd2b44/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1638d8476ac9d12dc8a13995e2bd2b44/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a3eec042b0f0f3b3cbcdd333fecb4fbe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a3eec042b0f0f3b3cbcdd333fecb4fbe/AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.12.aar/bf5acac04de69708bfaafaab58772cd5/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.12.aar/bf5acac04de69708bfaafaab58772cd5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/82af79fd9a71cf5372c2f7338efc9f1c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/82af79fd9a71cf5372c2f7338efc9f1c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0a23acefeeb3d83ab9d2804532d2347a/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/0a23acefeeb3d83ab9d2804532d2347a/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/cd6e967b2873c88265cae25f9437068f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/cd6e967b2873c88265cae25f9437068f/AndroidManifest.xml:20:5-43
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/shivendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/1638d8476ac9d12dc8a13995e2bd2b44/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+		ADDED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml
+		INJECTED from /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/src/main/AndroidManifest.xml

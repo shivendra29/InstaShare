@@ -1,0 +1,3 @@
+# Referenced at /Users/shivendra/Documents/Android Projects/Instagram-clone/InstaShare/build/intermediates/manifests/full/debug/AndroidManifest.xml:24
+-keep class com.parse.starter.StarterApplication { <init>(...); }
+
